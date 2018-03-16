@@ -14,8 +14,8 @@ A fundamental challenge for open science is how best to create and share documen
 > ## Prerequisites
 >
 > 1. Follow the instructions on the [setup page](setup/) to get the tools you need for the workshop.
-> 1. No previous R experience required, but, time permitting, please familiarize yourself with some of the basic syntax and structure of R by either taking the free online R course from [datacamp.com](https://www.datacamp.com/) by learning R from within R with a tutorial called [Swirl](http://swirlstats.com/) (instructions here: <http://swirlstats.com/students.html>).
-> 3.**Email <mailto:hdekker@uri.edu> if you run into setup snags** .
+> 2. No previous R experience required, but, time permitting, please familiarize yourself with some of the basic syntax and structure of R by either taking the free online R course from [datacamp.com](https://www.datacamp.com/) by learning R from within R with a tutorial called [Swirl](http://swirlstats.com/) (instructions here: <http://swirlstats.com/students.html>).
+> 3. **Email <mailto:hdekker@uri.edu> if you run into setup snags**.
 > 4. [Download files and data](files/files.zip) for this class.
 >
 {: .prereq}
